@@ -10,4 +10,12 @@ This work is licensed under a
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
 # Portfolio
-Portfolio de Rafael Sulino
+Este repositório contém alguns dos meus trabalhos realizados, tanto no âmbito profissional quanto acadêmico.
+
+## Avaliação Física
+
+## COVID-19
+
+## Mestrado
+
+## Doutorado
