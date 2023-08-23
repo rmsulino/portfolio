@@ -13,9 +13,16 @@ This work is licensed under a
 Este repositório contém alguns dos meus trabalhos realizados, tanto no âmbito profissional quanto acadêmico.
 
 ## Avaliação Física
+Trabalhos produzidos em linguagem Python para a aplicação de alguns protocolos utilizados na avaliação física de atletas e praticantes de atividade física de modo geral.
 
 ## COVID-19
+Trabalho realizado em linguagem Python, com o propósito de produzir gráficos com base em dados divulgados durante a pandemia COVID-19, de forma a embasar o material intitulado "Transparência COVID-19 Poços de Caldas".
 
 ## Mestrado
+Minha dissertação de Mestrado, bem como material relacionado.
 
 ## Doutorado
+Minha tese de Doutorado, bem como material relacionado.
+
+## Predição da qualidade do vinho
+Trabalho desenvolvido em linguagem Python, abrangendo algumas técnicas de Machine Learning. Realizado como requisito em processo seletivo para trabalhos remotos na área de Inteligência Artificial.
