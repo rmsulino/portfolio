@@ -4,7 +4,7 @@ Este repositório contém alguns dos meus trabalhos realizados, tanto no âmbito
 ## Licensa
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-This work is licensed under a
+Este material é licenciado pela 
 [Creative Commons Attribution-NonCommercial-NonDerivative 4.0 International License][cc-by-nc-nd].
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
