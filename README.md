@@ -1,3 +1,7 @@
+# Portfolio
+Este repositório contém alguns dos meus trabalhos realizados, tanto no âmbito profissional quanto acadêmico.
+
+# Licensa
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
@@ -9,9 +13,7 @@ This work is licensed under a
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
-# Portfolio
-Este repositório contém alguns dos meus trabalhos realizados, tanto no âmbito profissional quanto acadêmico.
-
+# Projetos
 ## Avaliação Física
 Trabalhos produzidos em linguagem Python para a aplicação de alguns protocolos utilizados na avaliação física de atletas e praticantes de atividade física de modo geral.
 
