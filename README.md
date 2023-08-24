@@ -1,7 +1,7 @@
 # Portfolio
 Este repositório contém alguns dos meus trabalhos realizados, tanto no âmbito profissional quanto acadêmico.
 
-## Licensa
+## Licença
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 Este material é licenciado pela 
