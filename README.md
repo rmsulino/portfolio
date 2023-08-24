@@ -17,7 +17,11 @@ Este material é licenciado pela
 ### Avaliação Física
 Trabalhos produzidos em linguagem Python para a aplicação de alguns protocolos utilizados na avaliação física de atletas e praticantes de atividade física de modo geral.
 
-### COVID-19
+### Painel COVID-19 Poços de Caldas
+
+Trabalho realizado em linguagem Python com SQL (MySQL), com o objetivo de compilar os dados dos boletins diários divulgados pela Prefeitura Municipal de Poços de Caldas durante a pandemia da COVID-19.
+
+### Transparência COVID-19 Poços de Caldas
 Trabalho realizado em linguagem Python, com o propósito de produzir gráficos com base em dados divulgados durante a pandemia COVID-19, de forma a embasar o material intitulado "Transparência COVID-19 Poços de Caldas".
 
 ### Mestrado
