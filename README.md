@@ -32,3 +32,9 @@ Minha tese de Doutorado, bem como material relacionado.
 
 ### Predição da qualidade do vinho
 Trabalho desenvolvido em linguagem Python, abrangendo algumas técnicas de Machine Learning. Realizado como requisito em processo seletivo para trabalhos remotos na área de Inteligência Artificial.
+
+### Linguagem C
+Implementação de diversos algoritmos em linguagem C.
+
+### Java
+Implementação de diversos algoritmos em Java.
