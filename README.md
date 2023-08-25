@@ -38,3 +38,6 @@ Implementação de diversos algoritmos em linguagem C.
 
 ### Java
 Implementação de diversos algoritmos em Java.
+
+### Python
+Implementação de diversos algoritmos em linguagem Python.
