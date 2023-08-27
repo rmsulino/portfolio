@@ -24,6 +24,9 @@ Trabalho realizado em linguagem Python com SQL (MySQL), com o objetivo de compil
 ### Transparência COVID-19 Poços de Caldas
 Trabalho realizado em linguagem Python, com o propósito de produzir gráficos com base em dados divulgados durante a pandemia COVID-19, de forma a embasar o material intitulado "Transparência COVID-19 Poços de Caldas".
 
+### PNAD COVID-19
+Trabalho desenvolvido durante o curso "Estatística para Data Science: análise e visualização de dados do coronavírus", realizado pela Universidade Federal de São Carlos.
+
 ### Mestrado
 Minha dissertação de Mestrado, bem como material relacionado.
 
